@@ -1,2 +1,2 @@
 # NFTs
-A simple NFT sales Landing Page
+A simple NFT sales listing site
